@@ -1,3 +1,5 @@
+# add support Sunway  and LoogArch architecture on release-1.15.5 branch
+
 # Ruby-FFI https://github.com/ffi/ffi/wiki [![Build Status](https://travis-ci.com/ffi/ffi.svg?branch=master)](https://travis-ci.com/ffi/ffi) [![Build status Windows](https://ci.appveyor.com/api/projects/status/r8wxn1sd4s794gg1/branch/master?svg=true)](https://ci.appveyor.com/project/larskanis/ffi-aofqa/branch/master)
 
 ## Description
